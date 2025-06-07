@@ -105,6 +105,8 @@ The LSTM-based progression index uses:
 1. **Conventional Weekday Features**: Monday through Sunday activity levels
 2. **Sorted Activity Features**: Daily activities ordered by intensity (most to least active)
 
+![LSTM Architecture](docs/lstm_arch.png)
+
 ## Methodology 
 
 #### Data Processing Pipeline 
